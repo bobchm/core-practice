@@ -18,20 +18,20 @@ h1{
 }
 
 .main-link{
-    font-size: smaller;
+    font-size: small;
 }
 
 .column {
     float: left;
     width: 50%;
-    margin-top:0px;
+    /*margin-top:0px;*/
 }
 
 .row {
     width:100%;
     display: inline-flex;
     flex-wrap: wrap;
-    margin-top:0px;
+    /*margin-top:0px;*/
 }
 
 .cp-label {
