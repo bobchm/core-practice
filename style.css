@@ -8,6 +8,11 @@ h1{
     margin: 25px 50px 75px 50px;
 }
 
+.nsnp-subtitle{
+    text-align: center;
+    font-style: italic;
+}
+
 .backlink{
     margin-top: 25px;
 }
