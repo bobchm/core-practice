@@ -16,3 +16,24 @@ h1{
 .backlink{
     margin-top: 25px;
 }
+
+.main-link{
+    font-size: smaller;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    margin-top:0px;
+}
+
+.row {
+    width:100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-top:0px;
+}
+
+.cp-label {
+    margin-bottom: 0px;
+}
